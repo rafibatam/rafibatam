@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Rafi Bahrur Rizki
-- 👀 I’m interested in Android Mobile Programming
-- 🌱 I’m currently learning PostgreSQL and JavaScript
-- 📫 Contact me on Telegram @penerusbillgates
+- 👀 I’m interested in Full Stack Programming
+- 🌱 I’m currently working with PostgreSQL, ReactJS, NextJS, NodeJS, Kotlin, Java
+- 📫 Contact me on Telegram @rafibahrur
 
 <!---
 rafibatam/rafibatam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
