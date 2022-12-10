@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Rafi Bahrur Rizki
 - 👀 I’m interested in Full Stack Programming
-- 🌱 I’m currently working with PostgreSQL, ReactJS, NextJS, NodeJS, Kotlin, Java
+- 🌱 I’m currently working with Flutter
 - 📫 Contact me on Telegram @rafibahrur
 
 <!---
