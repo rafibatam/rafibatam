@@ -1,4 +1,6 @@
-#### Hi, I’m Muhammad Rafi Bahrur Rizki 👋
+### I’m interested in Full Stack Programming, currently working with Flutter.
+
+#### I have experience with the following qualifications :
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,flutter,js,nextjs,nodejs,postgres,react,)](https://skillicons.dev)
 
